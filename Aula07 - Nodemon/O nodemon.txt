@@ -1,0 +1,8 @@
+O nodemon é um modulo que vai facilitar o nosso trabalho, ele irá verificar se há alguma modificacao 
+no codigo e ele irá rodar automaticamente nosso codigo 
+
+para sua instalacao: npm install nodemon -g // essa tag -g siginifica globalmente. iremos usar ele em
+todo o sistema.
+
+e toda vez que for executar o projeto sempre usar o nodemon no terminal.
+ex: npx nodemon index.js

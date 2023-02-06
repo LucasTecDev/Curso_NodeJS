@@ -1,0 +1,6 @@
+nessa aula vamos aprender como fazer requisicoes e como servir um servidor, é uma aplicacao http utilizando o node.
+
+HTTP é o protocolo que permite que o cliente se comunique com um servidor.
+
+o node vem com um modulo http, porém esse módulo é bastante limitado, e existem frameworks que mudam nossa ferramenta e forma de trabalhar com o node,
+e vamos ver a forma tradicional do nodeJS

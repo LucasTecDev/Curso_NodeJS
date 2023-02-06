@@ -1,0 +1,8 @@
+Framework é uma ferramenta que serve para facilitar seu trabalho, ao invez de usar tecnologias limitadas, podemos usar Express veio para ajudar a montar 
+aplicacoes web, backend com node, ele é o principal ferramenta e framework para se usar.
+
+npm é um maior repositório de pacotes que existe.
+você consegue baixar o Express atravéz do npm. com o comando = npm install express --save  //o --save é usado para salvar os arquivos dentro do pacote.
+quando instalado você ver que ele nao traz apenas o express, e sim outros pacotes. 
+
+O arquivo package-lock.json é um arquivo de configuracao do npm.
