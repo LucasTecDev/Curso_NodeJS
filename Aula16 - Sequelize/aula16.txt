@@ -1,0 +1,8 @@
+Com o banco criado, vamos adicionar o Sequeliza que é uma nova ferramenta que ajuda 
+a trabalhar com o banco de dados.
+
+para instalar é preciso estar dentro da pasta do projeto.
+comando: npm install --save sequelize
+
+e agente irá trabalhar com o mysql, vamos precisar de um módulo
+comando: npm install --save mysql2
