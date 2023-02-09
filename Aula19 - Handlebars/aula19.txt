@@ -1,0 +1,6 @@
+Nessa aula vamos desenvolver um pequeno sistema de cadastro de postagens.
+usaremos os mesmos cógidos do index.
+
+O handlebars dá suporte ao html, onde consigo criar coisas no arquivo do .js e ver no .html
+comando para instalar o handlebars: npm install --save express-handlebars
+
