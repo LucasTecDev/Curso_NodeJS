@@ -1,0 +1,4 @@
+nessa aula vamos aprender a criar um model
+
+vamos criar um model que vai gerar uma tabela, diretamente pelo node, nenhuma sequer por sql
+entao vamos criar um model pastagem e  usuarios.
